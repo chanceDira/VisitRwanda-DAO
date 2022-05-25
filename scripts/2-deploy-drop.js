@@ -34,4 +34,5 @@ import { readFileSync } from "fs";
   }
 })();
 
-//editionDrop contract, address: 0x5DDFF97eBAC8DFc98631287c088992845383c55b
+// editionDrop contract, address: 0x5DDFF97eBAC8DFc98631287c088992845383c55b
+// https://testnets.opensea.io/assets/rinkeby/0x5ddff97ebac8dfc98631287c088992845383c55b/0

@@ -1,6 +1,6 @@
 # VisitRwanda DAO
 
-VisitRwandaDAO -- a DAO for tourists of Rwanda that receive $VISITRWANDA whenever they visit Rwanda.
+🇷🇼VisitRwandaDAO -- a DAO for tourists of Rwanda that receive $VISITRWANDA whenever they visit Rwanda.
 
 ### **Welcome 👋**
  clone this repo and follow these commands:

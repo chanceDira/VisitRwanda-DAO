@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VisitRwanda-DAO/static/css/main.25d987a1.css",
+    "main.js": "/VisitRwanda-DAO/static/js/main.eef6f39d.js",
+    "index.html": "/VisitRwanda-DAO/index.html",
+    "main.25d987a1.css.map": "/VisitRwanda-DAO/static/css/main.25d987a1.css.map",
+    "main.eef6f39d.js.map": "/VisitRwanda-DAO/static/js/main.eef6f39d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d987a1.css",
+    "static/js/main.eef6f39d.js"
+  ]
+}
